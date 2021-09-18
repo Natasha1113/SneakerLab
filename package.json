@@ -1,0 +1,19 @@
+{
+  "name": "sneaker-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natasha1113/SneakerLab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natasha1113/SneakerLab/issues"
+  },
+  "homepage": "https://github.com/Natasha1113/SneakerLab#readme"
+}
